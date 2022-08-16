@@ -1,5 +1,5 @@
 local Solaris = Instance.new("ScreenGui")
-Solaris.Name = tostring(math.random())
+Solaris.Name = "RadonVpremuim"
 Solaris.Parent = game.CoreGui
 Solaris.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
