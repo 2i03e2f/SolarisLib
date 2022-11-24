@@ -3,7 +3,7 @@ b=1
 
 if b<5 then
 	b=5
-	warn("Fuck the society");
+	warn("Fuck y'all");
 end
 
 -- XDDDDDDD 
