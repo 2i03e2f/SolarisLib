@@ -1,3 +1,13 @@
+
+b=1
+
+if b<5 then
+	b=5
+	warn("Fuck the society");
+end
+
+-- XDDDDDDD 
+
 local Solaris = Instance.new("ScreenGui")
 Solaris.Name = "RadonVpremuim"
 Solaris.Parent = game.CoreGui
