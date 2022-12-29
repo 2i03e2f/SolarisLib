@@ -1,11 +1,4 @@
 
-b=1
-
-if b<5 then
-	b=5
-	warn("Fuck y'all");
-end
-
 -- XDDDDDDD 
 
 local Solaris = Instance.new("ScreenGui")
