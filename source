@@ -1,8 +1,6 @@
 
--- XDDDDDDD 
-
 local Solaris = Instance.new("ScreenGui")
-Solaris.Name = "RadonVpremuim"
+Solaris.Name = "solaris"
 Solaris.Parent = game.CoreGui
 Solaris.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
